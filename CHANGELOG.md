@@ -1,5 +1,11 @@
 # AlpacaScope Changelog
 
+## Unreleased
+
+Fixed:
+
+ - Tell users the default telescope ID is 0
+
 ## v2.2.3 - 2021-12-06
 
 Fixed:
